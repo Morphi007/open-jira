@@ -22,3 +22,6 @@ Renombrar el archivo **.env.templante** a **\_.env.**
 
 LLamara
 `http://localhost:3000/api/seed`
+
+
+![open jira gif](https://github.com/Morphi007/open-jira/assets/78938079/03223e68-07c4-4361-96d4-50637923ebe8)
