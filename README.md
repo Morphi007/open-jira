@@ -25,3 +25,5 @@ LLamara
 
 
 ![open jira gif](https://github.com/Morphi007/open-jira/assets/78938079/03223e68-07c4-4361-96d4-50637923ebe8)
+
+![open jira mobil pc](https://github.com/Morphi007/open-jira/assets/78938079/e2a34e8f-b8e5-42ac-838c-5d5c01e19c82)
